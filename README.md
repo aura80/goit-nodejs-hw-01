@@ -1,8 +1,8 @@
 # Comenzi si capturi de ecran
-1. index.js
+## index.js
   1. npm start
   2. npm run start:dev
-2. index-step3.js
+## index-step3.js
   1. npm run start3
   2. npm run star3t:dev
 
