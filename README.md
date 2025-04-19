@@ -1,7 +1,7 @@
-##index.js
+#index.js
     -npm start
     -npm run start:dev
-##index-step3.js
+#index-step3.js
     -npm run start3
     -npm run star3t:dev
 
