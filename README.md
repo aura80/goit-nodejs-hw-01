@@ -1,12 +1,12 @@
 #Comenzi si capturi de ecran
-##index.js
-    -npm start
-    -npm run start:dev
-##index-step3.js
-    -npm run start3
-    -npm run star3t:dev
+>index.js
+    >>npm start
+    >>npm run start:dev
+>index-step3.js
+    >>npm run start3
+    >>npm run star3t:dev
 
-#Capturi de ecran:
+>Capturi de ecran:
   -node index.js --action remove --id=1745074786558  -  https://ibb.co/tpNV2mvt
   -node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22  -  https://ibb.co/MxYtbr44
   -node index.js --action remove --id=1745072768777  -  https://ibb.co/v6V16Nz4
