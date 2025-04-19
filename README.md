@@ -1,4 +1,4 @@
-#Comenzi si capturi de ecran
+Comenzi si capturi de ecran
 >index.js
     >>npm start
     >>npm run start:dev
