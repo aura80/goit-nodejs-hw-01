@@ -1,10 +1,10 @@
 # Comenzi si capturi de ecran
 1. index.js
-> > npm start
-> > npm run start:dev
+  1. npm start
+  2. npm run start:dev
 2. index-step3.js
-> > npm run start3
-> > npm run star3t:dev
+  1. npm run start3
+  2. npm run star3t:dev
 
 ##Capturi de ecran:
 1. node index.js --action remove --id=1745074786558  -  https://ibb.co/tpNV2mvt
