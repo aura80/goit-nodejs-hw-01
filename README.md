@@ -5,7 +5,7 @@
 ## index-step3.js
   1. npm run start3
   2. npm run star3t:dev
-##Capturi de ecran:
+## Capturi de ecran:
 1. node index.js --action remove --id=1745074786558  -  https://ibb.co/tpNV2mvt
 2. node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22  -  https://ibb.co/MxYtbr44
 3. node index.js --action remove --id=1745072768777  -  https://ibb.co/v6V16Nz4
