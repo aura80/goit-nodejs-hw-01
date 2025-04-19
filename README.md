@@ -1,8 +1,8 @@
 # Comenzi si capturi de ecran
-> index.js
+1. index.js
 > > npm start
 > > npm run start:dev
-> index-step3.js
+2. index-step3.js
 > > npm run start3
 > > npm run star3t:dev
 
@@ -12,7 +12,7 @@
 3. node index.js --action remove --id=1745072768777  -  https://ibb.co/v6V16Nz4
 4. node index.js --action get --id 1DEXoP8AuCGYc1YgoQ6hw - https://ibb.co/8gr1cnzr
 5. node index.js --action list  -  https://ibb.co/F4tHJq79
-6. --------------------------------------------------------
+6. -------------------
 7. start-dev-nodemon-step3  -  https://ibb.co/rKR2cwBb
 8. all-contacts-step-3  -  https://ibb.co/MkTKMTqf
 9. adding-contacts-step-3  -  https://ibb.co/G3GFFQxb
