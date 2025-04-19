@@ -4,7 +4,7 @@
   2. npm run start:dev
 ## index-step3.js
   1. npm run start3
-  2. npm run star3t:dev
+  2. npm run start3:dev
 ## Screenshots
 ## Commands run in the terminal:
 1. node index.js --action list  -  https://ibb.co/F4tHJq79
